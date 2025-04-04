@@ -1,0 +1,20 @@
+﻿scenario,scenarioName,taskCount
+http://www.semanticweb.org/hi_ontology#Trust,Trust,10
+http://www.semanticweb.org/hi_ontology#Trust,Trust in Clinical AI,10
+http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario,7
+http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory,6
+http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario,6
+http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps,4
+http://www.semanticweb.org/hi_ontology#DiaryConstructionScenario,Diary Construction Scenario,3
+http://www.semanticweb.org/hi_ontology#ReinforcementLearningDementiaCare,Reinforcement Learning for Personalized Interventions,3
+http://www.semanticweb.org/hi_ontology#Reliances_Behavior,Reliance Behavior,3
+http://www.semanticweb.org/hi_ontology#CaseBasedReasoningScenario,Case-Based Reasoning Scenario,2
+http://www.semanticweb.org/hi_ontology#DementiaCareScenario,Dementia Care Eating and Drinking Scenario,2
+http://www.semanticweb.org/hi_ontology#EthicalProfilingScenario,Ethical Profiling Scenario,2
+http://www.semanticweb.org/hi_ontology#GenerativeDesignTrainingScenario,Generative Design Training Scenario,2
+http://www.semanticweb.org/hi_ontology#RLHumanInLoopScenario,Human-in-the-Loop Reinforcement Learning Scenario,2
+http://www.semanticweb.org/hi_ontology#PrecedentialConstraint,Theory of Precedential Constraint,2
+http://www.semanticweb.org/hi_ontology#AIAssistedDecisionMakingScenario,AI-Assisted Decision-Making Reliance Scenario,1
+http://www.semanticweb.org/hi_ontology#ExosoulProject,Exosoul Project,1
+http://www.semanticweb.org/hi_ontology#Intervention,Intervention,1
+http://www.semanticweb.org/hi_ontology#TrustInterventionsScenario,Trust Interventions in Human-AI Collaboration,1

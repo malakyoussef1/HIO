@@ -1,0 +1,26 @@
+﻿scenario,scenarioName,description
+http://www.semanticweb.org/hi_ontology#AIAssistedDecisionMakingScenario,AI-Assisted Decision-Making Reliance Scenario,A scenario exploring the interdependence between human reliance behavior and decision-making accuracy in AI-assisted decision-making
+http://www.semanticweb.org/hi_ontology#CaseBasedReasoningScenario,Case-Based Reasoning Scenario,A scenario for analyzing how machine learning systems draw on training data using theory of precedential constraint
+http://www.semanticweb.org/hi_ontology#ClinicalAITrustScenario,Clinical AI Trust Development Scenario,A scenario exploring trust formation and calibration in clinical AI deployment
+http://www.semanticweb.org/hi_ontology#DementiaCareScenario,Dementia Care Eating and Drinking Scenario,A scenario for providing personalized interventions to support people with early-stage dementia in managing their eating and drinking routines
+http://www.semanticweb.org/hi_ontology#DiabetesUseCase,Diabetes Management,Supporting lifestyle changes for patients with Type 2 Diabetes Mellitus
+http://www.semanticweb.org/hi_ontology#DiaryConstructionScenario,Diary Construction Scenario,
+http://www.semanticweb.org/hi_ontology#EthicalProfilingScenario,Ethical Profiling Scenario,A scenario for creating ethical profiles of users to predict digital behaviors
+http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory,Theory suggesting individuals' differences in moral judgments based on idealism and relativism
+http://www.semanticweb.org/hi_ontology#ExosoulProject,Exosoul Project,Project aiming to develop a personalized software exoskeleton to protect and support citizen's ethics and privacy
+http://www.semanticweb.org/hi_ontology#GenerativeDesignTrainingScenario,Generative Design Training Scenario,A scenario for individual experts to train and personalize their generative design assistants on the fly
+http://www.semanticweb.org/hi_ontology#Intervention,Intervention,"A human-initiated action to alter the agent's behavior, rejecting its decision and suggesting an alternative"
+http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario,A scenario for creating topographic activation maps to understand neural network representations
+http://www.semanticweb.org/hi_ontology#PatientRecoveryUseCase,Patient Recovery and Functioning Patterns,Monitoring recovery and functioning of elderly patients
+http://www.semanticweb.org/hi_ontology#PrecedentialConstraint,Theory of Precedential Constraint,"A formal framework developed to describe the a fortiori reasoning process underlying case law, analyzing how precedents constrain decisions in new cases"
+http://www.semanticweb.org/hi_ontology#RLHumanInLoopScenario,Human-in-the-Loop Reinforcement Learning Scenario,A scenario exploring the critical role of humans throughout the reinforcement learning process
+http://www.semanticweb.org/hi_ontology#ReinforcementLearningDementiaCare,Reinforcement Learning for Personalized Interventions,Application of RL techniques to determine suitable mix of signals for individual users with early-stage dementia
+http://www.semanticweb.org/hi_ontology#Reliances_Behavior,Reliance Behavior,Human's behavior of adhering to or overriding AI recommendations in decision-making
+http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps,A technique to visualize neuron activations in a two-dimensional space where neurons with similar activations are placed nearby
+http://www.semanticweb.org/hi_ontology#ToxicityUseCase,Cancer Therapy Toxicity Monitoring,Monitoring side effects of cancer treatments like chemotherapy
+http://www.semanticweb.org/hi_ontology#Trust,Trust,The attitude that an AI system will help achieve an individual's goals in a situation characterized by uncertainty and vulnerability
+http://www.semanticweb.org/hi_ontology#Trust,Trust,The attitude that an agent will help achieve an individual's goals in a situation characterized by uncertainty and vulnerability
+http://www.semanticweb.org/hi_ontology#Trust,Trust in Clinical AI,The attitude that an AI system will help achieve an individual's goals in a situation characterized by uncertainty and vulnerability
+http://www.semanticweb.org/hi_ontology#Trust,Trust in Clinical AI,The attitude that an agent will help achieve an individual's goals in a situation characterized by uncertainty and vulnerability
+http://www.semanticweb.org/hi_ontology#TrustInterventionsScenario,Trust Interventions in Human-AI Collaboration,A scenario exploring interventions as trust indicators in human-AI collaborative tasks with misaligned goals
+http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario,A scenario exploring active learning strategies that maximize model value in selective classification

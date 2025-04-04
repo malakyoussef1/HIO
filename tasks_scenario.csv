@@ -1,0 +1,49 @@
+﻿task,taskName,scenario,scenarioName
+http://www.semanticweb.org/hi_ontology#AIAssistedDecisionMakingTask,AI-Assisted Decision Making,http://www.semanticweb.org/hi_ontology#AIAssistedDecisionMakingScenario,AI-Assisted Decision-Making Reliance Scenario
+http://www.semanticweb.org/hi_ontology#AIInterpretabilityTask,AI Interpretability,http://www.semanticweb.org/hi_ontology#CaseBasedReasoningScenario,Case-Based Reasoning Scenario
+http://www.semanticweb.org/hi_ontology#Absolutist,Absolutist,http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory
+http://www.semanticweb.org/hi_ontology#AnnotationErrorDetection,AnnotationErrorDetection,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#AppropriateReliance,Appropriate Reliance,http://www.semanticweb.org/hi_ontology#Reliances_Behavior,Reliance Behavior
+http://www.semanticweb.org/hi_ontology#BehaviorPredictionTask,Behavior Prediction,http://www.semanticweb.org/hi_ontology#EthicalProfilingScenario,Ethical Profiling Scenario
+http://www.semanticweb.org/hi_ontology#BelowThresholdOrientedSampling,BelowThresholdOrientedSampling,http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario
+http://www.semanticweb.org/hi_ontology#BiasVisualization,BiasVisualization,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#CaseAnalysisTask,Case Analysis,http://www.semanticweb.org/hi_ontology#CaseBasedReasoningScenario,Case-Based Reasoning Scenario
+http://www.semanticweb.org/hi_ontology#CertaintySampling,CertaintySampling,http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario
+http://www.semanticweb.org/hi_ontology#CoActivationGraph,CoActivationGraph,http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps
+http://www.semanticweb.org/hi_ontology#ContextualMultiArmedBandit,Contextual Multi-Armed Bandit,http://www.semanticweb.org/hi_ontology#ReinforcementLearningDementiaCare,Reinforcement Learning for Personalized Interventions
+http://www.semanticweb.org/hi_ontology#ContextualThompsonSampling,Contextual Thompson Sampling,http://www.semanticweb.org/hi_ontology#ReinforcementLearningDementiaCare,Reinforcement Learning for Personalized Interventions
+http://www.semanticweb.org/hi_ontology#DataRepresentationAnalysis,DataRepresentationAnalysis,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#DiaryConstructionTask,Diary Construction,http://www.semanticweb.org/hi_ontology#DiaryConstructionScenario,Diary Construction Scenario
+http://www.semanticweb.org/hi_ontology#DimensionOrdering,Dimension Ordering,http://www.semanticweb.org/hi_ontology#PrecedentialConstraint,Theory of Precedential Constraint
+http://www.semanticweb.org/hi_ontology#DimensionalityReduction,DimensionalityReduction,http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps
+http://www.semanticweb.org/hi_ontology#EatingReminderTask,Eating Reminder,http://www.semanticweb.org/hi_ontology#DementiaCareScenario,Dementia Care Eating and Drinking Scenario
+http://www.semanticweb.org/hi_ontology#EthicalProfilingTask,Ethical Profiling,http://www.semanticweb.org/hi_ontology#EthicalProfilingScenario,Ethical Profiling Scenario
+http://www.semanticweb.org/hi_ontology#Exceptionist,Exceptionist,http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory
+http://www.semanticweb.org/hi_ontology#FeatureVisualization,FeatureVisualization,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#FloorPlanDesignTask,Floor Plan Design,http://www.semanticweb.org/hi_ontology#GenerativeDesignTrainingScenario,Generative Design Training Scenario
+http://www.semanticweb.org/hi_ontology#ForcingRelation,Forcing Relation,http://www.semanticweb.org/hi_ontology#PrecedentialConstraint,Theory of Precedential Constraint
+http://www.semanticweb.org/hi_ontology#GenerativeDesignTrainingTask,Generative Design Training,http://www.semanticweb.org/hi_ontology#GenerativeDesignTrainingScenario,Generative Design Training Scenario
+http://www.semanticweb.org/hi_ontology#Idealism,Idealism,http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory
+http://www.semanticweb.org/hi_ontology#InterventionFrequency,Intervention Frequency,http://www.semanticweb.org/hi_ontology#Intervention,Intervention
+http://www.semanticweb.org/hi_ontology#LinearUpperConfidenceBound,Linear Upper Confidence Bound,http://www.semanticweb.org/hi_ontology#ReinforcementLearningDementiaCare,Reinforcement Learning for Personalized Interventions
+http://www.semanticweb.org/hi_ontology#MDPFormulationTask,Markov Decision Process Formulation,http://www.semanticweb.org/hi_ontology#RLHumanInLoopScenario,Human-in-the-Loop Reinforcement Learning Scenario
+http://www.semanticweb.org/hi_ontology#NavigationTask,Navigation Task,http://www.semanticweb.org/hi_ontology#TrustInterventionsScenario,Trust Interventions in Human-AI Collaboration
+http://www.semanticweb.org/hi_ontology#OverReliance,Over-Reliance,http://www.semanticweb.org/hi_ontology#Reliances_Behavior,Reliance Behavior
+http://www.semanticweb.org/hi_ontology#ParticleSwarmOptimization,ParticleSwarmOptimization,http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps
+http://www.semanticweb.org/hi_ontology#RLOptimizationTask,RL Signal Optimization,http://www.semanticweb.org/hi_ontology#DementiaCareScenario,Dementia Care Eating and Drinking Scenario
+http://www.semanticweb.org/hi_ontology#RLProblemIdentificationTask,RL Problem Identification,http://www.semanticweb.org/hi_ontology#RLHumanInLoopScenario,Human-in-the-Loop Reinforcement Learning Scenario
+http://www.semanticweb.org/hi_ontology#RandomSampling,RandomSampling,http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario
+http://www.semanticweb.org/hi_ontology#Relativism,Relativism,http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory
+http://www.semanticweb.org/hi_ontology#SaliencyMaps,SaliencyMaps,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#SelfOrganizingMap,SelfOrganizingMap,http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps
+http://www.semanticweb.org/hi_ontology#Situationist,Situationist,http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory
+http://www.semanticweb.org/hi_ontology#SoftwareExoskeleton,Software Exoskeleton,http://www.semanticweb.org/hi_ontology#ExosoulProject,Exosoul Project
+http://www.semanticweb.org/hi_ontology#Subjectivist,Subjectivist,http://www.semanticweb.org/hi_ontology#EthicsPositionTheory,Ethics Position Theory
+http://www.semanticweb.org/hi_ontology#ThresholdOrientedSampling,ThresholdOrientedSampling,http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario
+http://www.semanticweb.org/hi_ontology#TimelineReconstructionTask,Timeline Reconstruction,http://www.semanticweb.org/hi_ontology#DiaryConstructionScenario,Diary Construction Scenario
+http://www.semanticweb.org/hi_ontology#TopographicActivationMaps,TopographicActivationMaps,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#TrainingProcessVisualization,TrainingProcessVisualization,http://www.semanticweb.org/hi_ontology#NeuralNetworkVisualizationScenario,Neural Network Activation Visualization Scenario
+http://www.semanticweb.org/hi_ontology#UncertaintySampling,UncertaintySampling,http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario
+http://www.semanticweb.org/hi_ontology#UnderReliance,Under-Reliance,http://www.semanticweb.org/hi_ontology#Reliances_Behavior,Reliance Behavior
+http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningTask,Value-Aware Active Learning,http://www.semanticweb.org/hi_ontology#ValueAwareActiveLearningScenario,Value-Aware Active Learning Scenario
+http://www.semanticweb.org/hi_ontology#WellBeingMonitoringTask,Well-Being Monitoring,http://www.semanticweb.org/hi_ontology#DiaryConstructionScenario,Diary Construction Scenario
